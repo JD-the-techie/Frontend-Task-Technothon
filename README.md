@@ -1,4 +1,3 @@
-
 # Frontend Product Listing UI
 
 ## Project Overview
