@@ -1,4 +1,3 @@
-# Frontend-Task-Technothon
 # Frontend Product Listing UI
 
 ## Project Overview
